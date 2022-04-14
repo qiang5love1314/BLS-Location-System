@@ -9,6 +9,5 @@ If you use this work for your research, you may want to cite
   journal={IEEE Transactions on Mobile Computing},
   year={2021},
   pages={1--14},
-  publisher={IEEE}
-}
+  publisher={IEEE}}
 ```
