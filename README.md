@@ -23,7 +23,7 @@ Experimental results demonstrate that BLS-Location significantly reduces trainin
 To use this repository, follow these steps:  
 - `LabMain.py`: Implements the proposed algorithm for the Lab Scenario.  
 - `MeetingMain.py`: This is for the Meeting Room Scenario.
-You can find the datasets on my homepage, and see the repositories of "CSI-dataset".
+- You can find the datasets on my homepage, and see the repositories of "CSI-dataset".
 
 If you use this work for your research, you may want to cite
 ```
